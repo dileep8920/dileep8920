@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dileep Kumar Yadav</h1>
-<h3 align="center">A passionate Backend developer from Delhi India</h3>
+<h3 align="center">A passionate JAVA Backend Developer from India. Extensive expertise in website architecture, Developer, and Web Developer. Knows about DATA Structure and Git-Flow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileep8920&label=Profile%20views&color=0e75b6&style=flat" alt="dileep8920" /> </p>
 
