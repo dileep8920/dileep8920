@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dileep8920" alt="dileep8920" /></a> </p>
 
-- 🔭 I’m currently working on **Java Core**
+- 🔭 I’m currently working on **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://dileep8920.github.io/](https://dileep8920.github.io/)
 
